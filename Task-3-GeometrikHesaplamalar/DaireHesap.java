@@ -1,4 +1,4 @@
-public class Daire{
+public class DaireHesap{
   public static void main(String[] args){
     double r = 5.5;
     double pi = 3.1415;
@@ -12,3 +12,4 @@ public class Daire{
     System.out.println("cevre = " + cever);
   }
 }
+
