@@ -1,4 +1,4 @@
-public class UcgenHeron {
+public class UcgenAlanHesap {
     public static void main(String[] args) {
        
         double a = 3.0;
@@ -15,3 +15,4 @@ public class UcgenHeron {
         System.out.println("alan  A = " + alan);
     }
 }
+
