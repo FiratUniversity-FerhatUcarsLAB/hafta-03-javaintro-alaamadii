@@ -7,10 +7,13 @@ public class ToplamaSeri{
 }
 
 // daha kolay bir sekilde yapabilirim//
-public class ToplamaSeri{
-  public static void main(String[] args){
-    int result = 0
-    for(int i = 1; i <= 9; i++){
-      int result += i
-      System.out.println("toplam = "+ result);
+public class ToplamaSeri {
+    public static void main(String[] args) {
+        int result = 0;
+        for (int i = 1; i <= 9; i++) {
+            result += i; // corrected
+            System.out.println("toplam = " + result);
+        }
+    }
+}
 
